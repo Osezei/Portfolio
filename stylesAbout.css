@@ -187,9 +187,7 @@ p {
   word-spacing: 0.5px;
   color: var(--clr-yellow);
 }
-.resume {
-  /* margin-top: 10px; */
-}
+
 .resume a {
   text-decoration: none;
   background-color: var(--clr-green);
