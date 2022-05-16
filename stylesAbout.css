@@ -195,3 +195,19 @@ p {
   color: var(--clr-yellow);
   font-size: 20px;
 }
+
+.footer-section {
+  /* display: none; */
+  position: absolute;
+  bottom: -100;
+  background-color: var(--clr-yellow);
+  opacity: 0.6;
+  width: 100%;
+  text-align: center;
+}
+.footer-section p {
+  color: var(--clr-green1);
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+}

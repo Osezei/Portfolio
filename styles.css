@@ -200,3 +200,26 @@ p {
   color: black;
   font-size: 22px;
 }
+
+.footer-section {
+  position: absolute;
+  bottom: 0;
+  background-color: var(--clr-yellow);
+  opacity: 0.6;
+  width: 100%;
+  text-align: center;
+}
+.footer-section p {
+  color: var(--clr-green1);
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: capitalize;
+}
+
+/* .fade-in {
+  opacity: 0;
+  transition: opacity 250ms ease-in;
+}
+.fade-in.appear {
+  opacity: 1;
+} */
