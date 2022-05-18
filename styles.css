@@ -12,8 +12,9 @@ html {
   box-sizing: border-box;
 }
 :root {
-  --clr-green2: rgb(72, 161, 94);
-  --clr-green: rgb(16, 124, 43);
+  /* --clr-green2: rgb(72, 161, 94); */
+  --clr-green: rgb(0, 160, 111);
+  /* --clr-green: rgb(16, 124, 43); */
   --clr-green1: rgb(16, 92, 16);
   --clr-yellow: rgb(253, 253, 201);
   --clr-yellow1: rgb(175, 175, 80);

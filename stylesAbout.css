@@ -12,7 +12,8 @@
   --clr-green: rgb(16, 124, 43);
   --clr-green1: rgb(16, 92, 16);
   --clr-yellow: rgb(253, 253, 201);
-  --clr-yellow1: rgb(175, 175, 80);
+  /* --clr-yellow1: rgb(175, 175, 80); */
+  --clr-yellow: #111932;
   --jsqbjk: #c59d5f;
   --clr-black: #222;
   --clr-white: white;
